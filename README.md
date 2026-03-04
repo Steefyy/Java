@@ -1,2 +1,2 @@
 # Java
-Small projects with my GF
+Small projects with java technologies 
